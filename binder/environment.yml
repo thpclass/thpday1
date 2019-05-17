@@ -1,0 +1,13 @@
+channels:
+- defaults
+- pytorch
+dependencies:
+- matplotlib
+- nbconvert
+- numpy
+- pandas
+- scipy
+- seaborn
+- scikit-learn
+- pytorch-cpu 
+- torchvision
